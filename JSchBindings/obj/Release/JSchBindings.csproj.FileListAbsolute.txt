@@ -1,0 +1,4 @@
+C:\Users\carter.henderson\Documents\Projects\JSchBindings\JSchBindings\bin\Release\JSchBindings.dll
+C:\Users\carter.henderson\Documents\Projects\JSchBindings\JSchBindings\bin\Release\JSchBindings.pdb
+C:\Users\carter.henderson\Documents\Projects\JSchBindings\JSchBindings\obj\Release\JSchBindings.dll
+C:\Users\carter.henderson\Documents\Projects\JSchBindings\JSchBindings\obj\Release\JSchBindings.pdb
